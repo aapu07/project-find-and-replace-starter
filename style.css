@@ -24,9 +24,7 @@ input {
     margin-bottom: calc(var(--base-size) / 2);
 }
 
-button {
 
-}
 
 .grid {
     display: table;
